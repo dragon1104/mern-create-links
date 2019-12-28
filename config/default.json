@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "secret-key123",
+    "mongoUri": "mongodb+srv://dragon:123456q@mern-course-6bwbt.azure.mongodb.net/mern-course?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
